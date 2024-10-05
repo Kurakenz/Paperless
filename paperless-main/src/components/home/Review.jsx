@@ -53,7 +53,7 @@ const Review = () => {
             <Heading className="heading-md" text={heading} />
 
             <p className="para">
-              Here are some reviews from users who have used BookMark.
+              Here are some reviews from users who have used Paperless.
             </p>
 
             <Button onClick={handleClick}>Start Organizing</Button>

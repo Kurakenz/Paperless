@@ -41,7 +41,7 @@ const PublicHome = () => {
 
   // props to pass to the genre component
   const paragraph =
-    "If you're looking for a way to keep track of all your favorite books, then BookMark is the app for you! Access all your favorites in one central location. Create your bookshelf and add all your favorite titles to it.";
+    "If you're looking for a way to keep track of all your favorite books, then Paperless is the app for you! Access all your favorites in one central location. Create your bookshelf and add all your favorite titles to it.";
 
   // props to pass to the top picks component
 

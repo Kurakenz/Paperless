@@ -23,7 +23,7 @@ const SearchBar = () => {
         type="text"
         value={query}
         onChange={handleQuery}
-        placeholder="Search Bookmark"
+        placeholder="Search Paperless"
       />
     </form>
   );

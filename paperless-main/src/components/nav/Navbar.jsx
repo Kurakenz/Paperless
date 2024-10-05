@@ -52,7 +52,7 @@ const Navbar = () => {
               <figure>
                 <img src={bookmark} alt="Bookmark Logo" />
               </figure>
-              <span>Bookmark</span>
+              <span>Paperless</span>
             </div>
 
             <ul className={styled.nav__list}>

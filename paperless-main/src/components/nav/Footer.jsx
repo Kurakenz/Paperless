@@ -32,14 +32,14 @@ const Footer = () => {
         </ul>
       </Container>
       <ul className={styled.copyright}>
-        <li>&copy; 2020 Bookmark </li>
+        <li>&copy; 2024 Paperless </li>
         <li>
           <a
             target="_blank"
-            href="https://github.com/m-oniqu3?tab=repositories"
+            href="https://github.com/Kurakenz?tab=repositories"
             rel="noreferrer"
           >
-            Designed & Developed by Monique
+            Designed & Developed by Jason Hua
           </a>
         </li>
       </ul>
