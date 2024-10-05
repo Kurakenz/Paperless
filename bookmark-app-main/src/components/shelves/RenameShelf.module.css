@@ -1,0 +1,56 @@
+.rename-container {
+    position: fixed;
+    bottom: 10px;
+    left: 0px;
+    width: 100%;
+}
+
+.rename {
+    background-color: var(--white);
+    width: 95%;
+    max-width: 600px;
+    margin: 0 auto;
+    border-radius: 10px;
+    padding: 1rem;
+    text-align: center;
+}
+
+.rename h2 {
+    font-size: 1.2rem;
+    font-weight: bold;
+    font-family: "Roboto", sans-serif;
+    margin-bottom: 1rem;
+    color: var(--dark-blue);
+}
+
+.rename p {
+    width: 85%;
+    margin: .5rem auto 1.5rem auto;
+
+}
+
+.rename input {
+    border: none;
+    border-bottom: 1px solid var(--med-grey);
+    padding: 0.5rem;
+    text-align: center;
+    display: block;
+    margin: 1.5rem auto;
+    outline: none;
+    width: 60%;
+    font-size: 1rem;
+}
+
+
+/* Media Queries */
+
+@media (min-width:600px) {
+    .rename-container {
+        position: relative;
+    }
+
+    .rename {
+        min-width: 600px;
+    }
+
+}
